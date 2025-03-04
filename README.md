@@ -1,4 +1,5 @@
 # WORLD ECONOMIC INDICATORS ANALYSIS
+-----------------------------------
 ![](World_Economics_Indicators_image.png)
 ---
 ## Introduction
